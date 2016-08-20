@@ -1,0 +1,14 @@
+{
+	"appname": "OrderCloud",
+	"scope": "",
+	"clientid": "F8D51143-11BB-413C-8EAB-3D39D8F48AD5",
+	"buyerid": "TEST",
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
